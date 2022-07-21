@@ -27,7 +27,7 @@ def welcome_message():
     print('[*]Make sure your file follows the correct format. See "format_example_file.xlsx". ')
     print('[*]The file should be an excel file named "target_file.xlsx".')
     print('[*]The file should be located in the same folder as this program. Current path: ' + os.getcwd())
-    print('[*]Close any application that is using the file you are going to process. \n')
+    print('[*]Close any application that is using the file you are going to process.\n')
 
 
 def get_date_counts(remote_data, local_data):
