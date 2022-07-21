@@ -1,0 +1,4 @@
+venv
+format_example_file.xlsx
+*.xlsx
+lib
