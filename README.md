@@ -26,7 +26,7 @@ The following criteria must be met:
 Prior to this script, the comparison was made manually. The old way to compare was to merge both logs into one file,
 keeping the names from each log intact, then apply some excel functions to try and detect as many differences as possible.
 
-The functions implemented where not polished and maybe where not the right ones, so it was still
+The functions implemented where not polished and may have not been the right ones, so it was still
 necessary to check a good bunch of orders manually to solve possible mistakes.
 
 My script takes this file as a starting point, taking existing names and columns, thus reducing the
